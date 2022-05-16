@@ -1,0 +1,1249 @@
+<html>
+ <head>
+  <title>
+   ASM Material Data Sheet
+  </title>
+  <script language="JavaScript">
+   <!--
+if (document.all) {
+  document.write("<link rel='STYLESHEET' type='text/css' href='/includes/styleie.css'>");
+}
+else if (document.layers) {
+  document.write("<link rel='STYLESHEET' type='text/css' href='/includes/stylens.css'>");
+}
+else if (document.getElementById) {
+  document.write("<link rel='STYLESHEET' type='text/css' href='/includes/styleie.css'>");
+}
+else {
+  document.write("<link rel='STYLESHEET' type='text/css' href='/includes/styleie.css'>");
+}
+// -->
+  </script>
+  <link href="/includes/styleie.css" rel="STYLESHEET" type="text/css"/>
+ </head>
+ <body bgcolor="#000000" leftmargin="0" text="#FFFFFF" topmargin="0">
+  <center>
+   <table border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="770">
+    <tbody>
+     <tr>
+      <td width="770">
+       <a href="http://www.aerospacemetals.com/contact-aerospace-metals.html">
+        <img border="0" height="200" src="/images/asm-banner2011.jpg" width="770"/>
+       </a>
+      </td>
+     </tr>
+     <tr>
+      <td width="770">
+       <center>
+        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="750">
+         <tbody>
+          <tr>
+           <td>
+            <h4 align="center">
+             Aluminum 7075-T6; 7075-T651
+            </h4>
+            <br/>
+            <p>
+             <b>
+              Subcategory:
+             </b>
+             7000 Series Aluminum Alloy; Aluminum Alloy; Metal; Nonferrous Metal
+            </p>
+            <p>
+             <b>
+              Close Analogs:
+             </b>
+            </p>
+            <p>
+             <b>
+              Composition Notes
+             </b>
+             :
+             <br/>
+             A Zr + Ti limit of 0.25 percent maximum may be used with this alloy designation for extruded and forged products only, but only when the supplier or producer and the purchaser have mutually so agreed.  Agreement may be indicated, for example, by reference to a standard, by letter, by order note, or other means which allow the Zr + Ti limit.
+             <br/>
+             Aluminum content reported is calculated as remainder.
+             <br/>
+             Composition information provided by the Aluminum Association and is not for design.
+            </p>
+            <p>
+             <b>
+              Key Words:
+             </b>
+             Aluminium 7075-T6; Aluminium 7075-T651, UNS A97075; ISO AlZn5.5MgCu; Aluminium 7075-T6; Aluminium 7075-T651; AA7075-T6
+            </p>
+            <table border="0" cellpadding="3" cellspacing="0">
+             <tbody>
+              <tr>
+               <td valign="top">
+                <table border="0" cellpadding="3" cellspacing="0">
+                 <tbody>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     <b>
+                      Component
+                     </b>
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     <b>
+                      Wt. %
+                     </b>
+                    </font>
+                   </td>
+                   <td rowspan="2">
+                    <img height="1" src="/images/spacer.gif" width="20"/>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td colspan="2">
+                    <table background="/images/line.gif" border="0" cellpadding="0" cellspacing="0" width="100%">
+                     <tbody>
+                      <tr>
+                       <td>
+                        <img height="3" src="/images/spacer.gif" width="1"/>
+                       </td>
+                      </tr>
+                     </tbody>
+                    </table>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     Al
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     87.1 - 91.4
+                    </font>
+                   </td>
+                   <td>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     Cr
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     0.18 - 0.28
+                    </font>
+                   </td>
+                   <td>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     Cu
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     1.2 - 2
+                    </font>
+                   </td>
+                   <td>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     Fe
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     Max 0.5
+                    </font>
+                   </td>
+                   <td>
+                   </td>
+                  </tr>
+                 </tbody>
+                </table>
+               </td>
+               <td valign="top">
+                <table border="0" cellpadding="3" cellspacing="0">
+                 <tbody>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     <b>
+                      Component
+                     </b>
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     <b>
+                      Wt. %
+                     </b>
+                    </font>
+                   </td>
+                   <td rowspan="2">
+                    <img height="1" src="/images/spacer.gif" width="20"/>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td colspan="2">
+                    <table background="/images/line.gif" border="0" cellpadding="0" cellspacing="0" width="100%">
+                     <tbody>
+                      <tr>
+                       <td>
+                        <img height="3" src="/images/spacer.gif" width="1"/>
+                       </td>
+                      </tr>
+                     </tbody>
+                    </table>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     Mg
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     2.1 - 2.9
+                    </font>
+                   </td>
+                   <td>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     Mn
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     Max 0.3
+                    </font>
+                   </td>
+                   <td>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     Other, each
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     Max 0.05
+                    </font>
+                   </td>
+                   <td>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     Other, total
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     Max 0.15
+                    </font>
+                   </td>
+                   <td>
+                   </td>
+                  </tr>
+                 </tbody>
+                </table>
+               </td>
+               <td valign="top">
+                <table border="0" cellpadding="3" cellspacing="0">
+                 <tbody>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     <b>
+                      Component
+                     </b>
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     <b>
+                      Wt. %
+                     </b>
+                    </font>
+                   </td>
+                   <td rowspan="2">
+                    <img height="1" src="/images/spacer.gif" width="20"/>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td colspan="2">
+                    <table background="/images/line.gif" border="0" cellpadding="0" cellspacing="0" width="100%">
+                     <tbody>
+                      <tr>
+                       <td>
+                        <img height="3" src="/images/spacer.gif" width="1"/>
+                       </td>
+                      </tr>
+                     </tbody>
+                    </table>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     Si
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     Max 0.4
+                    </font>
+                   </td>
+                   <td>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     Ti
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     Max 0.2
+                    </font>
+                   </td>
+                   <td>
+                   </td>
+                  </tr>
+                  <tr>
+                   <td>
+                    <font size="-1">
+                     Zn
+                    </font>
+                   </td>
+                   <td align="right">
+                    <font size="-1">
+                     5.1 - 6.1
+                    </font>
+                   </td>
+                   <td>
+                   </td>
+                  </tr>
+                 </tbody>
+                </table>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <p>
+             <b>
+              Material Notes:
+             </b>
+             <br/>
+             <font face="Arial" size="-1">
+              General 7075 characteristics and uses (from Alcoa):  Very high strength material used for highly stressed structural parts.  The T7351 temper offers improved stress-corrosion cracking resistance.
+             </font>
+            </p>
+            <p>
+             <font face="Arial" size="-1">
+              <b>
+               Applications:
+              </b>
+              Aircraft fittings, gears and shafts, fuse parts, meter shafts and gears, missile parts, regulating valve parts, worm gears, keys, aircraft, aerospace and defense applications; bike frames, all terrain vehicle (ATV) sprockets.
+             </font>
+            </p>
+            <p>
+             <font face="Arial" size="-1">
+              Data points with the AA note have been provided by the Aluminum Association, Inc. and are NOT FOR DESIGN.
+             </font>
+            </p>
+            <p>
+             <table align="center" border="0" cellpadding="3" cellspacing="0" width="100%">
+              <tbody>
+               <tr>
+                <td nowrap="">
+                 <font size="-1">
+                  <b>
+                   Physical Properties
+                  </b>
+                 </font>
+                </td>
+                <td align="right">
+                 <font size="-1">
+                  <b>
+                   Metric
+                  </b>
+                 </font>
+                </td>
+                <td align="right">
+                 <font size="-1">
+                  <b>
+                   English
+                  </b>
+                 </font>
+                </td>
+                <td align="right">
+                 <font size="-1">
+                  <b>
+                   Comments
+                  </b>
+                 </font>
+                </td>
+               </tr>
+               <tr>
+                <td colspan="4">
+                 <table background="/images/line.gif" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                   <tr>
+                    <td>
+                     <img height="3" src="/images/spacer.gif" width="1"/>
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Density
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=43&amp;value=2.81">
+                   2.81 g/cc
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  0.102 lb/in³
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical
+                 </font>
+                </td>
+               </tr>
+               <tr>
+                <td colspan="4">
+                 <br/>
+                 <font size="-1">
+                  <b>
+                   Mechanical Properties
+                  </b>
+                 </font>
+                </td>
+               </tr>
+               <tr>
+                <td colspan="4">
+                 <table background="/images/line.gif" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                   <tr>
+                    <td>
+                     <img height="3" src="/images/spacer.gif" width="1"/>
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Hardness, Brinell
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  150
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  150
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical; 500 g load; 10 mm ball
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Hardness, Knoop
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  191
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  191
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  Converted from Brinell Hardness Value
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Hardness, Rockwell A
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  53.5
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  53.5
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  Converted from Brinell Hardness Value
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Hardness, Rockwell B
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  87
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  87
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  Converted from Brinell Hardness Value
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Hardness, Vickers
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  175
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  175
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  Converted from Brinell Hardness Value
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Ultimate Tensile Strength
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=79&amp;value=83">
+                   572 MPa
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  83000 psi
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Tensile Yield Strength
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=79&amp;value=73">
+                   503 MPa
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  73000 psi
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Elongation at Break
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=138&amp;value=11">
+                   11 %
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  11 %
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical; 1/16 in. (1.6 mm) Thickness
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Elongation at Break
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=138&amp;value=11">
+                   11 %
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  11 %
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical; 1/2 in. (12.7 mm) Diameter
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Modulus of Elasticity
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=79&amp;value=10400">
+                   71.7 GPa
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  10400 ksi
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical; Average of tension and compression.  Compression modulus is about 2% greater than tensile modulus.
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Poisson's Ratio
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  0.33
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  0.33
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Fatigue Strength
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=124&amp;value=23000">
+                   159 MPa
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  23000 psi
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; 500,000,000 cycles completely reversed stress; RR Moore machine/specimen
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Fracture Toughness
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=111&amp;value=20">
+                   20 MPa-m½
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  18.2 ksi-in½
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  K(IC) in S-L Direction
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Fracture Toughness
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=111&amp;value=25">
+                   25 MPa-m½
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  22.8 ksi-in½
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  K(IC) in T-L Direction
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Fracture Toughness
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=111&amp;value=29">
+                   29 MPa-m½
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  26.4 ksi-in½
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  K(IC) in L-T Direction
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Machinability
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=138&amp;value=70">
+                   70 %
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  70 %
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  0-100 Scale of Aluminum Alloys
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Shear Modulus
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=45&amp;value=26.9">
+                   26.9 GPa
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  3900 ksi
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Shear Strength
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=79&amp;value=48">
+                   331 MPa
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  48000 psi
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical
+                 </font>
+                </td>
+               </tr>
+               <tr>
+                <td colspan="4">
+                 <br/>
+                 <font size="-1">
+                  <b>
+                   Electrical Properties
+                  </b>
+                 </font>
+                </td>
+               </tr>
+               <tr>
+                <td colspan="4">
+                 <table background="/images/line.gif" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                   <tr>
+                    <td>
+                     <img height="3" src="/images/spacer.gif" width="1"/>
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Electrical Resistivity
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=239&amp;value=31">
+                   5.15e-006 ohm-cm
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  5.15e-006 ohm-cm
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical at 68°F
+                 </font>
+                </td>
+               </tr>
+               <tr>
+                <td colspan="4">
+                 <br/>
+                 <font size="-1">
+                  <b>
+                   Thermal Properties
+                  </b>
+                 </font>
+                </td>
+               </tr>
+               <tr>
+                <td colspan="4">
+                 <table background="/images/line.gif" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                   <tr>
+                    <td>
+                     <img height="3" src="/images/spacer.gif" width="1"/>
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  CTE, linear 68°F
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=4&amp;value=13.1">
+                   23.6 µm/m-°C
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  13.1 µin/in-°F
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical; Average over 68-212°F range.
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  CTE, linear 250°C
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=5&amp;value=25.2">
+                   25.2 µm/m-°C
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  14 µin/in-°F
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  Average over the range 20-300ºC
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Specific Heat Capacity
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=65&amp;value=0.96">
+                   0.96 J/g-°C
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  0.229 BTU/lb-°F
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Thermal Conductivity
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=10&amp;value=900">
+                   130 W/m-K
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  900 BTU-in/hr-ft²-°F
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical at 77°F
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Melting Point
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  477 - 635 °C
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  890 - 1175 °F
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical range based on typical composition for wrought products 1/4 inch thickness or greater. Homogenization may raise eutectic melting temperature 20-40°F but usually does not eliminate eutectic melting.
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Solidus
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=3&amp;value=890">
+                   477 °C
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  890 °F
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Liquidus
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=3&amp;value=1175">
+                   635 °C
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  1175 °F
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                  AA; Typical
+                 </font>
+                </td>
+               </tr>
+               <tr>
+                <td colspan="4">
+                 <br/>
+                 <font size="-1">
+                  <b>
+                   Processing Properties
+                  </b>
+                 </font>
+                </td>
+               </tr>
+               <tr>
+                <td colspan="4">
+                 <table background="/images/line.gif" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                   <tr>
+                    <td>
+                     <img height="3" src="/images/spacer.gif" width="1"/>
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Annealing Temperature
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=3&amp;value=775">
+                   413 °C
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  775 °F
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#000000">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Solution Temperature
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  466 - 482 °C
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  870 - 900 °F
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                 </font>
+                </td>
+               </tr>
+               <tr bgcolor="#333333">
+                <td nowrap="" valign="top">
+                 <font size="-1">
+                  Aging Temperature
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  <a href="/search/GetUnits.asp?convertfrom=3&amp;value=250">
+                   121 °C
+                  </a>
+                 </font>
+                </td>
+                <td align="right" nowrap="" valign="top">
+                 <font size="-1">
+                  250 °F
+                 </font>
+                </td>
+                <td align="right" valign="top">
+                 <font size="-1">
+                 </font>
+                </td>
+               </tr>
+              </tbody>
+             </table>
+            </p>
+            <p>
+             <a href="/search/GetReference.asp?bassnum=MA7075T6">
+              <b>
+               References
+              </b>
+             </a>
+             for this datasheet.
+            </p>
+            <br/>
+            <font size="-2">
+             Some of the values displayed above may have been converted from their original units and/or rounded in 
+	order to display the information in a consistant format.  Users requiring more precise data for scientific or 
+	engineering calculations can click on the property value to see the original value as well as raw conversions 
+	to equivalent units.  We advise that you only use the original value or one of its raw conversions in your 
+	calculations to minimize rounding error.  We also ask that you refer to MatWeb's
+             <a href="terms.asp">
+              disclaimer and terms of use
+             </a>
+             regarding this information.  MatWeb data and tools provided by
+             <a href="http://www.matweb.com">
+              MatWeb, LLC.
+             </a>
+            </font>
+            <br/>
+           </td>
+          </tr>
+          <tr>
+           <td>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+       </center>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </center>
+ </body>
+</html>
